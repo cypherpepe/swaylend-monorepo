@@ -22,7 +22,7 @@
 
 * Token factory contract: `0x3e4f1948aece07d3f30c8c5c425f914ac74653827de48394466f2a887eebe9c7`
 
-* Market implementation contract: `0x7d57daf11b8303de005fa300d8695cabdc580ccc6b1c55026fb2b1e0c4d05715`
+* Market implementation contract: `0xbcfa7132ccdea26cf4d199069895259ac4095bd84dee8ba483aa990a0b2e4fcf`
 
 * Market proxy contract: `0xc95ba29f6172eccb58d489f9db30374ee593fadf962d215b33e79d2be2534ec1`
 
