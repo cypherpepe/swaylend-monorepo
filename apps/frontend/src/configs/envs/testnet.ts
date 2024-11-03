@@ -36,7 +36,7 @@ const markets: DeployedMarkets = {
     oracleAddress:
       '0x25146735b29d4216639f7f8b1d7b921ff87a1d3051de62d6cceaacabeb33b8e7',
     marketAddress:
-      '0x690a533331fed5062f80f6ff1851abd06c73188c95b663261bce5f0bcd9a5597',
+      '0xc95ba29f6172eccb58d489f9db30374ee593fadf962d215b33e79d2be2534ec1',
     tokenFactoryAddress:
       '0x3e4f1948aece07d3f30c8c5c425f914ac74653827de48394466f2a887eebe9c7',
     graphqlUrl: 'https://indexer.bigdevenergy.link/c755070/v1/graphql',
