@@ -67,8 +67,6 @@ body > div > div[role="dialog"] {
     --secondary-foreground: 227 73% 93%;  
     --muted: 213 17% 23%; 
     --muted-foreground: 0 0% 35%; 
-    --primary: 165 79% 58%;
-    --primary-foreground: 205 16% 15%;
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 210 40% 98%;
     --border: 213 17% 23%; 
